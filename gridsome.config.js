@@ -6,5 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
+  siteUrl: 'https://constructionsincongrues.github.io',
+  pathPrefix: '/club.jeancloude.teloche',
   plugins: []
 }
